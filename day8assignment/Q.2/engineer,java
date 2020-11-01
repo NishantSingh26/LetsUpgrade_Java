@@ -1,0 +1,14 @@
+package com.second;
+
+public class engineer extends Employee {
+    public void electrical(){
+        System.out.println("Electrical Engineer design and develops new electrical equipment");
+    }
+    public void  nanosystem(){
+        System.out.println("NanoSystem Engineer investigates the microscopic interactions between various materials");
+    }
+    public void leave(){
+        System.out.println("Engineer have leave of 10 days");
+    }
+
+}
